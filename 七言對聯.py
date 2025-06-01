@@ -1,3 +1,5 @@
+https://zerojudge.tw/ShowProblem?problemid=g275
+
 doble_line = int(input())
 
 for i in range(doble_line):
