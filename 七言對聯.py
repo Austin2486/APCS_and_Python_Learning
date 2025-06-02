@@ -1,4 +1,4 @@
-#https://zerojudge.tw/ShowProblem?problemid=g275
+[題目](https://zerojudge.tw/ShowProblem?problemid=g275)
 
 doble_line = int(input())
 
